@@ -3,7 +3,7 @@
 # 🤳 INSTAGRAM UNFOLLOW
 #### LEIA ANTES DE USAR 
 
-Para utilizar o programa, instalar a lib do Instagram 
+Para obter a total experiencia do programa, faça a instalação da lib do Instagram 
 * Python
 
   ```sh

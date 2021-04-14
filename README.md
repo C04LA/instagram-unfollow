@@ -1,9 +1,10 @@
 
+  
 # 🤳 INSTAGRAM UNFOLLOW
 #### LEIA ANTES DE USAR 
 
 Para utilizar o programa, instalar a lib do Instagram 
-* python
+* Python
 
   ```sh
   pip install InstagramAPI
@@ -18,8 +19,9 @@ Para utilizar esse programa, é simples!
 
 Instale o github em seu terminal
 
-* Linux 
- ```sh
+* Linux
+
+  ```sh
   apt install git
   git clone https://github.com/C04LA/instagram-unfollow
 

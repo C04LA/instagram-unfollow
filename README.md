@@ -4,6 +4,7 @@
 
 Para utilizar o programa, instalar a lib do Instagram 
 * python
+
   ```sh
   pip install InstagramAPI
 

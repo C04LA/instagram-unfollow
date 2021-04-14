@@ -31,11 +31,11 @@ Para Windows também é fácil, apenas clique.
 obs: você precisa do python instalado. 
 
    
-* Python 
-<a href="https://www.python.org/downloads/">clique aqui para baixar o python
- 
-* Windows
-<a href="https://github.com/C04LA/instagram-unfollow/archive/refs/heads/main.zip">clique aqui para baixar o programa
+Python 
+* <a href="https://www.python.org/downloads/">clique aqui para baixar o python
+  
+ Windows
+* <a href="https://github.com/C04LA/instagram-unfollow/archive/refs/heads/main.zip">clique aqui para baixar o programa
   
 
 ## Contato
